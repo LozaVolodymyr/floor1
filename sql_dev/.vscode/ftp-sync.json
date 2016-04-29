@@ -1,0 +1,16 @@
+{
+    "remotePath": "/home/emp/sql",
+    "host": "176.37.219.61",
+    "username": "emp",
+    "password": "epmjurbattabruj2016",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": true,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}

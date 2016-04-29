@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>My Feed Title</title>
+        <description>This is my personnal feed!</description>
+        <link>http://example.com/</link>
+        <lastBuildDate>Sat, 23 Apr 2016 18:56:22 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <image>
+            <title>My Feed Title</title>
+            <url>http://example.com/logo.png</url>
+            <link>http://example.com/</link>
+        </image>
+        <copyright>Copyright © 2013 John Doe. All rights reserved</copyright>
+        <generator>Feed for Node.js</generator>
+        <item>
+            <title><![CDATA[Gray Hooded Sweatshirt]]></title>
+            <link>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</link>
+            <guid>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</guid>
+            <description><![CDATA[As reported by Yahoo, the Kremlin on Monday commented on U.S. President Barack Obama's historic visit to Cuba, saying it was in Russia's interests for Havana, its long-time ally, to have good relations with the United States.&quot;Decades of friendly partner-like relations link Russia and Cuba,&quot; Kremlin spokesman Dmitry Peskov told a teleconference with reporters. &quot;We are interested in Cuba, which is friendly to us, maintaining good relations with all its neighbors and above all with the United States.&quot;Obama arrived to small but cheering crowds on Sunday at the start of a historic visit to Cuba that opened a new chapter in U.S. engagement with the island's Communist government after decades of hostility between the former Cold War foes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gray Hooded Sweatshirt]]></title>
+            <link>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</link>
+            <guid>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</guid>
+            <description><![CDATA[As reported by Yahoo, the Kremlin on Monday commented on U.S. President Barack Obama's historic visit to Cuba, saying it was in Russia's interests for Havana, its long-time ally, to have good relations with the United States.&quot;Decades of friendly partner-like relations link Russia and Cuba,&quot; Kremlin spokesman Dmitry Peskov told a teleconference with reporters. &quot;We are interested in Cuba, which is friendly to us, maintaining good relations with all its neighbors and above all with the United States.&quot;Obama arrived to small but cheering crowds on Sunday at the start of a historic visit to Cuba that opened a new chapter in U.S. engagement with the island's Communist government after decades of hostility between the former Cold War foes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gray Hooded Sweatshirt]]></title>
+            <link>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</link>
+            <guid>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</guid>
+            <description><![CDATA[As reported by Yahoo, the Kremlin on Monday commented on U.S. President Barack Obama's historic visit to Cuba, saying it was in Russia's interests for Havana, its long-time ally, to have good relations with the United States.&quot;Decades of friendly partner-like relations link Russia and Cuba,&quot; Kremlin spokesman Dmitry Peskov told a teleconference with reporters. &quot;We are interested in Cuba, which is friendly to us, maintaining good relations with all its neighbors and above all with the United States.&quot;Obama arrived to small but cheering crowds on Sunday at the start of a historic visit to Cuba that opened a new chapter in U.S. engagement with the island's Communist government after decades of hostility between the former Cold War foes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gray Hooded Sweatshirt]]></title>
+            <link>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</link>
+            <guid>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</guid>
+            <description><![CDATA[As reported by Yahoo, the Kremlin on Monday commented on U.S. President Barack Obama's historic visit to Cuba, saying it was in Russia's interests for Havana, its long-time ally, to have good relations with the United States.&quot;Decades of friendly partner-like relations link Russia and Cuba,&quot; Kremlin spokesman Dmitry Peskov told a teleconference with reporters. &quot;We are interested in Cuba, which is friendly to us, maintaining good relations with all its neighbors and above all with the United States.&quot;Obama arrived to small but cheering crowds on Sunday at the start of a historic visit to Cuba that opened a new chapter in U.S. engagement with the island's Communist government after decades of hostility between the former Cold War foes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gray Hooded Sweatshirt]]></title>
+            <link>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</link>
+            <guid>http://bublbe.com/en/society/23501-in-war-ants-can-turn-their-enemies-into-allies</guid>
+            <description><![CDATA[As reported by Yahoo, the Kremlin on Monday commented on U.S. President Barack Obama's historic visit to Cuba, saying it was in Russia's interests for Havana, its long-time ally, to have good relations with the United States.&quot;Decades of friendly partner-like relations link Russia and Cuba,&quot; Kremlin spokesman Dmitry Peskov told a teleconference with reporters. &quot;We are interested in Cuba, which is friendly to us, maintaining good relations with all its neighbors and above all with the United States.&quot;Obama arrived to small but cheering crowds on Sunday at the start of a historic visit to Cuba that opened a new chapter in U.S. engagement with the island's Communist government after decades of hostility between the former Cold War foes]]></description>
+        </item>
+    </channel>
+</rss>
